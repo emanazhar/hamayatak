@@ -1,0 +1,16 @@
+Hikvision DS-2CD2720F-I 1/3-inch day/night 2 MP network IR dome camera
+
+
+Technical Specification
+Make: Hikvision
+Model code: DS-2CD2720F-I
+Chip Inch Size: 1/3 inch
+Colour Type: Colour / Monochrome
+Resolution TVL: 2 MP TVL resolution
+
+ADDITIONAL INFO:
+HD real-time video
+IR LEDs: up to 30m
+DWDR & 3D DNR & BLC
+Onboard storage (up to 128GB)
+Vandal-proof

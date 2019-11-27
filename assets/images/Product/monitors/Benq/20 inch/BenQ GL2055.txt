@@ -1,0 +1,15 @@
+BenQ GL2055
+
+Dimensions (WxDxH)	19.3 in x 6.5 in x 14.6 in
+Display Type		LED-backlit LCD monitor / TFT active matrix
+Aspect Ratio		16:9
+Native Resolution	1600 x 900
+Contrast Ratio		700:1 / 12000000:1 (dynamic)
+Color Support		16.7 million colors
+Controls & Adjustments	Color temperature
+Horizontal Viewing Angle90
+Vertical Viewing Angle	65
+Pixel 			Pitch0.276 mm
+Panel 			TypeTN
+Brightness		200 cd/m²
+Backlight Technology	LED backlight

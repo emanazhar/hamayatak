@@ -1,0 +1,13 @@
+Hikvision DS-2CD2T85FWD-I5 8MP Bullet Network Camera
+
+Key Features
+- 8MP resolution
+- 3840 x 2160
+- Max. 20fps
+- Range of focal lengths available
+- H.264, H.264+, H.265, H.265+ compression
+- 120dB wide dynamic range
+- 3D digital noise reduction technology
+- 50m IR range
+- 128GB on-board storage
+- IP67 rated weatherproof housing

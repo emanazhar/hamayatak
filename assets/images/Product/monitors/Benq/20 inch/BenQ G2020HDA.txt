@@ -1,0 +1,32 @@
+BenQ G2020HDA
+
+Panel Type		LCD TN
+Size			20 inch monitor
+Screen Resolution	1600 x 900
+Hertz			60Hz refresh rate
+Weight			3.9kg
+Width			479mm
+Height			357mm
+Depth			165mm
+Response		5ms
+Brightness		250cd/m²
+Contrast		400000:1 Typical
+Viewing Angles		160° hor / 160° ver
+Power			28Watts
+Colors			16.7 million
+USB Hub			No USB hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

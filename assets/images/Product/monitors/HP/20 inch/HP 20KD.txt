@@ -1,0 +1,10 @@
+HP 20KD
+
+Brand				HP
+Colour				Black
+Screen Size			19.5 Inches
+Maximum Display Resolution	1440x900
+Item Weight			2.51 Kg
+Package Dimensions		50.6 x 38.8 x 11.6 cm
+Item model number		20KD
+Included Components		Monitor

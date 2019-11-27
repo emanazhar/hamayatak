@@ -1,0 +1,12 @@
+Philips 200V4LAB2/00
+
+Item Weight			2.39 Kg
+Product Dimensions		4.8 x 47.9 x 29.9 cm
+Color				Black
+Screen Size			50.8 centimetres
+Screen Resolution		1600 x 900
+Maximum Display Resolution	1600x900
+Processor Count			1
+Computer Memory Type		DDR3 SDRAM
+Number of VGA Ports		1
+Wattage				16 watts

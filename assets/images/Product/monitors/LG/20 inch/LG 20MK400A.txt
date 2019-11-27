@@ -1,0 +1,8 @@
+LG 20MK400A
+
+Color			Black
+Display			50.8 cm (20 inch) LED Backlit Display
+Panel Type		TN Panel
+Resolution		1366 x 768 pixels
+3D			No
+Screen Resolution Type`	HD

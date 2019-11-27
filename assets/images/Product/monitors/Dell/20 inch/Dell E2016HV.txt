@@ -1,0 +1,8 @@
+Dell E2016HV
+
+Screen Size			20 inches
+Max Screen Resolution		1600x900
+Item Weight			8 pounds
+Product Dimensions		18.5 x 6.5 x 15.5 inches
+Item Dimensions L x W x H	18.5 x 6.5 x 15.5 inches
+Voltage				120 volts

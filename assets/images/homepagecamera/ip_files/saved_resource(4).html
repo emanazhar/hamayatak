@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!-- saved from url=(0092)https://www.freepik.com/search?dates=any&format=search&page=1&query=ip%20camera&sort=popular -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="./amp4ads-host-v0.js.download"></script><script src="./pubads_impl_rendering_2019111201.js.download"></script><script>var inDapIF=true,inGptIF=true;</script><link rel="preload" href="./f(2).txt" as="script"><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-36/html/container.html?n=1"></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><script>window.dicnf = {};</script><script data-jc="42">(function(){'use strict';window.viewReq=[];const c=a=>{fetch(a,{keepalive:!0,credentials:"include",redirect:"follow",method:"get",mode:"no-cors"}).catch(()=>{{const b=new Image;b.src=a.replace("&amp;","&");viewReq.push(b)}})};window.vu=a=>{if(window.fetch)c(a);else{{const b=new Image;b.src=a.replace("&amp;","&");viewReq.push(b)}}};}).call(this);</script><script>vu("https://securepubads.g.doubleclick.net/pcs/view?xai\x3dAKAOjssWNkTAFgsO2SUcJlkEQ4ajxg17e8QujsaNIMzxks1y-h2gRIc4z3_NmRu2Yx69JYO5aEnuqpNT0JoQ-wULsbcxYJshNJ6l0BRSj02ESk-I7CY7noFXkFMYuFZ8fofhwAHTPlO4C1UowsbAULAYjcjCj-Ys2HVy2GM7SdQJXrnCDQDLwOIB4fTgkQnEbcF2Hdr8YoqgvUL898lRXY4o9MpjxlwmArc8SbivZTxHT4Yx46586F9PyCmMrQQlFB1YGCQMWpCuOMhA7w\x26sig\x3dCg0ArKJSzHNLuARYQUNbEAE\x26urlfix\x3d1\x26adurl\x3d")</script><div class="GoogleActiveViewInnerContainer" style="left:0px;top:0px;width:100%;height:100%;position:fixed;pointer-events:none;z-index:-9999;"></div><div style="display:inline" class="GoogleActiveViewElement" data-google-av-cxn="https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsurbRVBnwr0z5in0hXt9q82-VbguI0Cd5w7JX_MLH87YrnMF-rBjVA6HDEIeMSaUBT2RbypstPOoYCOrKVNimJrR2MwUt_-w5HN-xvrkSA&amp;sig=Cg0ArKJSzDfq-mxiMb--EAE" data-google-av-adk="700255752" data-google-av-metadata="cm=1&amp;la=1&amp;alp=xai&amp;alh=1100200825&amp;xdi=0&amp;" data-google-av-override="-1" data-google-av-dm="2" data-google-av-immediate="" data-google-av-aid="0" data-google-av-naid="1" data-google-av-slift="" data-google-av-cpmav="" data-google-av-itpl="19" data-google-av-rs="4"><!-- collapse empty divs and resize -->
+<script>
+  var googletag = window.googletag || {};
+  window.googletag = googletag;
+  googletag.cmd = googletag.cmd || [];
+
+  function frameResize (width, height) {
+    yieldloveLog('Yieldlove', 'DEBUG', 'YieldloveDynamicResize - frameResize has been called for /64971086/FREEPIK_LIST_2', width, height);
+    window.frameElement.style.width = width + 'px';
+    window.frameElement.style.height = height + 'px';
+    var i = 0;
+    var w = window;
+    for (i = 0; i < 10; i++) {
+      w = w.parent;
+      try {
+        var bid = { bidderCode: 'AdExchange', width: width, height: height }
+        w.postMessage(JSON.stringify({ event: 'YieldloveBidWon', bid: bid }), '*');
+      } catch (e) {
+        yieldloveLog('Yieldlove', 'ERROR', e);
+      }
+      if (w.pbjsYLHH) break;
+    }
+  }
+
+  function yieldloveLog () {
+    var i = 0;
+    var w = window;
+    for (i = 0; i < 10; i++) {
+      if (w.pbjsYLHH) break;
+      w = w.parent;
+    }
+    try {
+      w.YLHH.bidder.log.apply(w.YLHH.bidder, arguments)
+    } catch (e) {
+      console.log.apply(console.log, arguments)
+    }
+  }
+
+  var winnerIsKnown = false;
+
+  googletag.cmd.push(function () {
+    googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+      try {
+        yieldloveLog('Google', 'DEBUG', 'YieldloveDynamicResize - slotRenderEnded has been called', event);
+
+        if (event.isEmpty) {
+          window.frameElement.style.display = 'none';
+          return
+        }
+
+        if (event.lineItemId === null) {
+          frameResize (event.size[0], event.size[1])
+          return
+        }
+
+        setTimeout(function () {
+          if (winnerIsKnown) return;
+          frameResize (event.size[0], event.size[1])
+        }, 200)
+      } catch (e) {
+        yieldloveLog('Yieldlove', 'ERROR', e);
+      }
+    });
+  });
+
+  try {
+    window.addEventListener('message', function (event) {
+      var message;
+      try {
+        message = JSON.parse(event.data)
+        if (typeof message !== 'object' || message === null) message = {}
+      } catch (e) {
+        message = {}
+      }
+
+      try {
+        if (message.event !== 'YieldloveBidWon') return
+        winnerIsKnown = true;
+        var bid = message.bid;
+        window.frameElement.style.width = bid.width + 'px';
+        window.frameElement.style.height = bid.height + 'px';
+        yieldloveLog('Yieldlove', 'DEBUG', 'YieldloveDynamicResize - Received resize event for /64971086/FREEPIK_LIST_2', bid);
+      } catch (e) {
+        yieldloveLog('Yieldlove', 'ERROR', e);
+      }
+    }, false);
+  } catch (e) {
+    console.error(e)
+  }
+</script>
+<!-- --------------------------------------------------- -->
+
+
+<!-- Yieldlove AdTag - freepik.com_d_970x250_2_dc -->
+<script src="./gpt.js.download">
+   googletag.pubads().definePassback('/53015287/freepik.com_d_970x250_2_dc', [[970, 250], [970, 90], [728, 90]])
+   .display();
+</script><script src="./pubads_impl_2019111201.js.download" id="gpt-impl-0.8970265942247844"></script><div id="gpt_unit_/53015287/freepik.com_d_970x250_2_dc_1" data-google-query-id="CPKipYyq7uUCFSUFBgAdjzMMBg"><div id="google_ads_iframe_/53015287/freepik.com_d_970x250_2_dc_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/53015287/freepik.com_d_970x250_2_dc_1" title="3rd party ad content" name="google_ads_iframe_/53015287/freepik.com_d_970x250_2_dc_1" width="970" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;" data-google-container-id="l5g60n5atd9x" data-load-complete="true" src="./saved_resource(9).html"></iframe></div></div><script src="./f(2).txt"></script><script>processGoogleTokenSync({"newToken":"FBS"},5);</script>
+</div><script src="./osd_listener.js.download"></script><script type="text/javascript">osdlfm(-1,'','By3d_YrXPXZT1L4jHzQbjzKSoBAAAAAAQATgByAEJwAIC4AIA4AQBoAYW0ggFCIABEAE','',700255752,true,'cm\x3d1\x26la\x3d1\x26alp\x3dxai\x26alh\x3d1100200825\x26xdi\x3d0\x26',3,'CAASEuRo4dX-6ajCeQ_v1xWKr3wXIg','https://pagead2.googlesyndication.com/pcs/activeview?xai\x3dAKAOjsurbRVBnwr0z5in0hXt9q82-VbguI0Cd5w7JX_MLH87YrnMF-rBjVA6HDEIeMSaUBT2RbypstPOoYCOrKVNimJrR2MwUt_-w5HN-xvrkSA\x26sig\x3dCg0ArKJSzDfq-mxiMb--EAE','');</script><script>if (window.top && window.top.postMessage) {window.top.postMessage('{"key_value":[{"key":"qid","value":"CJSu6ouq7uUCFYhj0wodYyYJRQ"}],"googMsgType":"adpnt"}','*');}</script><div style="bottom:0;right:0;width:970px;height:250px;background:initial !important;position:absolute !important;max-width:100% !important;max-height:100% !important;pointer-events:none !important;image-rendering:pixelated !important;z-index:2147483647;background-image:url(&#39;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWBAMAAACrl3iAAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAAB+SURBVBjTbZELDoAwCEPLDXr/0zr+dRnGEULpngi8wzJO1gpgdM9JSuU6gzxReYdH5ycqU9U2GT9vyVwSzExCdZAXN0aL8fbLWy3oAoGZSUtisEsePWtX7HqGOJ1zckltP/HaIOuFbKH3fm0QhbTYKEtZR3snRk/sv7SECdUH45YFVaOxHcoAAAAASUVORK5CYII=&#39;) !important;"></div></body></html>

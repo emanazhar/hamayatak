@@ -1,0 +1,20 @@
+Dell P2018H
+
+
+Diagonal Size 				20"
+Pixel Pitch 				0.271 mm x 0.263 mm
+Weight With packaging: 			6.13 kg (13.51 lb)
+Panel only–for VESA mount: 		2.40 kg (5.29 lb)
+Device Type 				LED-backlit LCD monitor - 20"
+Panel Type 				TN (Twisted Nematic)
+Aspect Ratio 				16:09
+Native Resolution 			1600 x 900 at 60Hz
+Brightness 				250 cd/m2 (typical)
+Contrast Ratio 				1000: 1 (typical)
+Response Time 				5 ms (black to white)
+Color Support 				Color Gamut (typical):84% (CIE 1976), 72% (CIE 1931)
+Color Depth: 				16.7 Million colors
+Input Connectors 			HDMI, VGA, DisplayPort
+Display Position Adjustments 		Height, pivot (rotation), swivel, tilt
+Screen Coating 				Antiglare with 3H hardness
+Dimensions (WxDxH) - with stand 	18.2 in x 7.1 in x 13.3 in

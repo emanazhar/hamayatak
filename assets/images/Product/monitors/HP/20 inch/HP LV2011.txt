@@ -1,0 +1,8 @@
+HP LV2011
+
+GENERAL SPECS
+ Aspect ratio  	 
+ Brightness  	200 cd / m2
+ Contrast  	600:1
+ Image size  	20
+ Maximum resolution  	1600 x 900 :HD+

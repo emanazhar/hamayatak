@@ -1,0 +1,15 @@
+Hikvision DS-2CD2185FWD-I 8MP Dome Network Camera
+
+Key Features
+- 8MP resolution
+- 3840 x 2160
+- 20 fps
+- Range of focal lengths available
+- H.264, H.264+, H.265, H.265+
+- 120dB wide dynamic range
+- 3D digital noise reduction technology
+- 30m IR range
+- Micro SD card slot, up to 128GB
+- IP67 rated weatherproof housing
+- IK10 rated vandal proof housing
+- 3-axis adjustment
